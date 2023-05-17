@@ -1,0 +1,58 @@
+# Python
+*.pyc
+**/__pycache__/
+
+# MAC OS
+*.DS_Store
+**/__MACOSX/
+
+# Images
+*.tiff
+*.tif
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.ico
+*.npz
+*.nii
+
+# Text
+*.txt
+!CMakeLists.txt
+*.doc
+*.docx
+
+# Data
+*.xls
+*.xlsx
+*.csv
+*.dat
+
+# TP C
+*.xyz
+*.stl
+**/CMakeFiles/
+
+
+# Jupyter Notebook
+**/.ipynb_checkpoints/
+
+# Compressed files
+*.zip
+*.rar
+*.gz
+*.7z
+*.tar
+*.tgz
+
+# Matlab
+.mat
+
+# Withouth extension
+*.
+
+# Other
+*.dim
+*.IMA
