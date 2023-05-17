@@ -50,6 +50,9 @@
 # Matlab
 .mat
 
+# Temporary files
+*.tmp
+
 # Withouth extension
 *.
 
